@@ -114,7 +114,10 @@ class _TaskDetailScreenState extends State<TaskDetailScreen> {
     final taskProvider = Provider.of<TaskProvider>(context, listen: false);
     if (widget.index != null) {
       taskProvider.deleteTask(widget.index!);
-      Navigator.pop(context);
+      int count = 0;
+      Navigator.popUntil(context, (route) {
+        return count++ == 2;
+      });
     }
   }
 }
