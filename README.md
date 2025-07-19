@@ -1,16 +1,56 @@
-# my_task
+# 📋 My Tasks
 
-A new Flutter project.
+![My Tasks](https://res.cloudinary.com/panmecar/image/upload/v1752961283/ChatGPT_Image_19_jul_2025_04_41_11_p.m._shujvx.png)
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+**My Tasks** es una aplicación potente e intuitiva diseñada para optimizar tu productividad diaria. Con esta intuitiva aplicación, puedes crear, editar, ver y eliminar tareas fácilmente, manteniéndote organizado y al tanto de tus responsabilidades.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ✨ Características
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Lista de tareas** con diseño moderno y elegante.
+- **Sistema de filtros** para organizar tareas completadas e incompletas.
+- **Temas claro y oscuro** con transición suave.
+- **Splash screen** animado con gradientes púrpuras.
+- **Persistencia de datos** automática.
+- **Diseño responsive** para todos los dispositivos.
+
+---
+
+## 🖼️ Capturas de pantalla
+
+![Screenshot 1](https://res.cloudinary.com/panmecar/image/upload/v1752962588/Simulator_Screenshot_-_iPhone_16_Plus_-_2025-07-19_at_16.32.10_mgj27n.png)
+
+![Screenshot 2](https://res.cloudinary.com/panmecar/image/upload/v1752962589/Simulator_Screenshot_-_iPhone_16_Plus_-_2025-07-19_at_16.32.54_zlnrtl.png)
+
+![Screenshot 3](https://res.cloudinary.com/panmecar/image/upload/v1752962588/Simulator_Screenshot_-_iPhone_16_Plus_-_2025-07-19_at_16.32.23_wbrsmt.png)
+
+![Screenshot 4](https://res.cloudinary.com/panmecar/image/upload/v1752962588/Simulator_Screenshot_-_iPhone_16_Plus_-_2025-07-19_at_16.32.19_oqzoqd.png)
+
+![Screenshot 5](https://res.cloudinary.com/panmecar/image/upload/v1752962588/Simulator_Screenshot_-_iPhone_16_Plus_-_2025-07-19_at_16.32.47_zgt2uk.png)
+
+---
+
+## 🚀 Instalación
+
+```bash
+git clone https://github.com/tu-usuario/my-tasks
+cd my-tasks
+flutter pub get
+flutter run
+```
+
+---
+
+## 🛠️ Tecnologías
+
+- Flutter
+- Provider
+- Shared Preferences
+- Material Design 3
+
+---
+
+**Desarrollado con 💙💙 por Pablo Melo**
